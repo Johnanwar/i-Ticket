@@ -1,0 +1,52 @@
+// -----------------------------------------------------------------------------
+// This file contains all application-wide Sass variables.
+// -----------------------------------------------------------------------------
+
+/// Proxima Nova font family
+/// @type List
+
+/// Colors
+/// @type Color
+$dark-color: #191919 !default;
+$white-color: #ffffff !default;
+$blue-color: #2a32ff !default;
+$faded-blue-color: #407fff !default;
+$light-blue-color: #f3f9fe !default;
+$baby-blue-color: #F7FAFE !default;
+$silver-color: #f9f9fc !default;
+$dark-gray-color: #73879c !default;
+$gray-color: #b2b2b2 !default;
+$light-gray-color: #e2e2e2 !default;
+$red-color: #ed4646 !default;
+$dark-silver-color: #5a5a5a !default;
+$orange-color: #fcc392 !default;
+$dark-orange-color: #e79f9f !default;
+$faded-black: #999999 !default;
+$faded-silver-color: #f0f0f0 !default;
+$faded-baby-blue-color: #eaedff !default;
+$space-gray-color: #7c7c7c !default;
+$space-dark-color: #2e2e2e !default;
+$space-orange-color: #ff8d2a !default;
+$crimson-color: #E82852 !default;
+$twitter-blue-color: #00acee !default;
+$light-orange-color: #fff3e9 !default;
+$green-color: #43c6a3 !default;
+$platinum-color: #e6e6e6 !default;
+$light-red-color: #fce8e8 !default;
+$sonic-silver-color: #707070 !default;
+$light-silver-color: #f5f5f5 !default;
+$mid-gray-color: #b6b6b6 !default;
+$mid-black-color: #393939 !default;
+$light-black-color: #F7F7F8 !default;
+
+/// Font Size
+$small-font: 0.5rem !default;
+$medium-font: 0.75rem !default;
+
+// bootstrap form control styles
+$form-control-border: 1px solid rgba(0, 0, 0, 0.15) !default;
+$form-control-border-radius: 0.25rem !default;
+
+$fb-s: 14px;
+$fb-xl: 16px;
+$fb-xxxl: 15px;

@@ -1,0 +1,923 @@
+{
+  "aboutUs": {
+    "becomeHost": "ابدأ استضافتك",
+    "ceoMessage": "رسالة من الرئيس التنفيذي",
+    "contactSupport": "للأسئلة أو المساعدة في الاستفادة من الخدمة، تواصل معنا",
+    "contactUs": "تواصل معنا",
+    "emailUs": "او راسلنا على البريد الإلكتروني ",
+    "findSpace": "ابحث عن مساحة",
+    "forGuest": "ستجد لدينا مساحات مجهزة لإنجاز أعمالك، استوديوهات واماكن فريدة لصناعة محتواك، وزوايا متنوعة تؤجر بالساعة وتناسب انشطتك اليومية. واذا ودك بشي مميز تواصل معنا",
+    "forHost": "استغل مساحتك في أوقات الركود واجعلها مصدر إلهام لمجتمعك. حقق دخل إضافي وابدأ بإدراج وتأجير مساحتك معنا.",
+    "general": "عام",
+    "guests": "منظمي الفعاليات (الضيوف)",
+    "headerTitle": "تجربة تجمعات جديدة",
+    "host": "المضيفين",
+    "mission": "مهمتنا",
+    "press": "للإعلام",
+    "pressTitle": "أرسل أي استفسارات صحفية إلى",
+    "subtitle": "نحن فريق من الطموحين نعمل لإيجاد وإتاحة المساحات والمواقع المجهزة والمتنوعة للمبدعين والمحترفين لتنفيذ أفكارهم وإنجاز أعمالهم والإحتفال بأوقاتهم. صنعنا هذه الخدمة لتعزيز التعاون في المجتمعات المضيافة وتقديم تجربة تجمع جديدة لمجتمع أكثر إرتباط وإبداع.",
+    "support": "الدعم",
+    "supportPage": "أو قم بزيارة مكتبنا",
+    "title": "نربط الناس بمساحات فريدة"
+  },
+  "activity": {
+    "book": "احجز مكانك",
+    "browse": "اكتشف",
+    "categories": "أعمال، صناعة المحتوى، واحتفال",
+    "chooseSpace": "واختر مساحة تناسب ميزانيتك وتخدم مناسبتك.",
+    "compare": "قارن",
+    "convenience": "مع سهولة دفع، كفاءة في التواصل مع اتفاقية فورية عند قبول حجزك",
+    "fewSteps": "خطوات قليلة وتصبح أقرب لـ",
+    "nearby": "ابحث عن مساحة {{ActivityName}} بالقرب منك",
+    "peopleReviews": "مراجعات الضيوف عن مساحات {{ActivityName}} على مكانات",
+    "popular": "شائعة",
+    "title": "آلاف المساحات الفريدة مباشرة من المضيفين المحليين",
+    "varietySpaces": "مجموعة متنوعة من الأماكن المختارة تلبي احتياجك"
+  },
+  "auth": {
+    "completeProfile": {
+      "buttonText": "حفظ",
+      "profilePhoto": "إضافة صورتك الشخصية تساعد الآخرين على التعرف عليك بشكل أفضل وتجعلهم يستجيبون بشكل أسرع.",
+      "subtitle": "يساعد ذلك في بناء الثقة بين الضيوف والمضيفين",
+      "title": "أكمل ملفك الشخصي"
+    },
+    "editPhone": {
+      "pleaseEnterPhone": "الرجاء إدخال رقم هاتفك"
+    },
+    "login": {
+      "forgotPassword": "نسيت كلمة المرور",
+      "haveAccount": "ليس لديك حساب؟",
+      "subtitle": "الرجاء إدخال بريدك الإلكتروني وكلمة المرور",
+      "title": "مرحباً مجدداً"
+    },
+    "otp": {
+      "in": "في",
+      "resend": "إعادة إرسال",
+      "subtitle": "تم إرسال رمز التأكيد لـ",
+      "title": "أدخل الرمز المكون من 4 أرقام",
+      "verify": "تحقق"
+    },
+    "registration": {
+      "agreement": "من خلال التسجيل ، فإنك توافق على",
+      "and": "و",
+      "conditions": "سياسة الخصوصية",
+      "haveAccount": "هل لديك حساب؟",
+      "subtitle": "احجز مساحات فريدة مباشرة من مضيفين محليين",
+      "terms": "الشروط والأحكام",
+      "title": "انضم إلى مكانات"
+    },
+    "validations": {
+      "emailFormat": "الرجاء إدخال بريد إلكتروني صحيح",
+      "passwordLength": "يجب أن تحتوي كلمة المرور على الأقل 8 أحرف/أرقام",
+      "passwordMatch": "كلمة المرور ليست متطابقة",
+      "passwordSchema": "يجب أن تحتوي كلمة المرور على حرف كبير واحد على الأقل ورقم واحد وحرف خاص واحد ولا تسمح بمسافات.",
+      "required": "هذا الحقل مطلوب"
+    }
+  },
+  "becomeHost": {
+    "about": "نعمل في مكانات بمسؤولية متأكدين من نوعية المستفيدين وامتثالهم لسياسة الإستخدام للحفاظ على حقوق الجميع.",
+    "belong": "كل مساحة لها مكانات",
+    "belongSubTitle": "المساحات السكنية: بحاجه لمحتوى",
+    "brief": "اذا خططنا لأي نشاط، مناسبه او فعالية، اول شي نفكر فيه هو المكان والموارد الي يقدمها. يحتاج المستقلين والمبدعين من المجتمع مساحات مجهزة لمدة قصيرة وتكلفة قليلة لتنفيذ أفكارهم، إنجاز أعمالهم والاحتفال بأوقاتهم. ربما مساحتك يفتقدها البعض.\n",
+    "build": "بناء على الثقة",
+    "buttonText": "إنظم كمضيف",
+    "categoriesTitle": "المساحات السكنية: بحاجه لمحتوى",
+    "chalet": "شاليهات",
+    "coWorkingSpaces": "مساحات العمل المشتركة",
+    "coffeeShops": "المقاهي",
+    "details": "ابدأ بتفاصيل المكان وتأكد من إضافة صور مناسبة تليق بنوعية الضيوف. حدد السعر المعقول واستفد من حزمة الأدوات لإدارة مساحاتك.",
+    "eventVenues": "أماكن الفعاليات",
+    "experienceBrief": "اصنع تجربة متميزة من خلال أسلوب مشاركة مساحتك للانشطة الغير مبيتية من اعمال وانتاج او حتى احتفال، اجعلها متوفرة 24 ساعة أو حدد ساعات وأوقات التشغيل خلال الأسبوع ونهاية الأسبوع.\n\nتستطيع إدارة الحجوزات بسهولة عبر هذا الموقع ومن خلال تطبيقنا على منصات الـ iOS و Android.",
+    "faq": "الأسئلة الشائعة",
+    "freeListing": "اطرح مساحتك مجاناً",
+    "galleries": "المعارض",
+    "getPaid": "زد من دخلك",
+    "gotYou": "تطورنا بثقة",
+    "guestMessage": "يتم إصدار إتفاقية مكانات (عقد التأجير) آلياً لجميع الأطراف المعنية والذي يتضمن تفاصيل الحجز، قواعد المضيف، شروط الاستخدام، وسياسة الإلغاء الخاصة بالمكان.",
+    "homes": "البيوت",
+    "howPaid": "كيف يتم الدفع لي؟",
+    "howWorks": "كيف تعمل الاستضافة",
+    "listYourSpace": "إطرح مساحتك وابشر بالتسويق!",
+    "lofts": "غرف علوية",
+    "makanatInsurance": "هل يوجد تأمين؟",
+    "payment": "عن طريق نظام دفع آمن، يتم تحصيل الرسوم من الضيوف مقدماً وإيداع مستحقاتك في حسابك البنكي مطروحًا منه رسوم الخدمة شاملة الضريبة 15٪",
+    "studios": "استوديوهات",
+    "subtitle": "اطرح مساحتك في مكانات واستغل اوقات التوقف لزيادة دخلك الشخصي أو دخل منشأتك التجارية.",
+    "support": " دائما معك",
+    "supportSubTitle": "فريق مكانات موجود لدعمك ومساعدتك كل يوم طوال العام.",
+    "title": "اكسب من مكانك!",
+    "welcomeGuests": "نرحب بالضيوف في مساحتك",
+    "whatLicense": "ما هي إتفاقية مكانات؟",
+    "who": " من يمكنه أن يستضيف؟",
+    "yourExperience": "مساحتك تشكل تجربتهم"
+  },
+  "bookings": {
+    "request": {
+      "activity": {
+        "dateAndTime": "التاريخ والوقت",
+        "from": "من",
+        "inputPlaceholder": "على سبيل المثال اجتماع، ورشة عمل، تصوير",
+        "introLabel": "عرّف نفسك وعن طبيعة فعاليتك",
+        "introPlaceholder": "عرّف عن نفسك وطبيعة فعاليتك",
+        "maxGuestsLabel": "كم عدد الحضور؟ *",
+        "maxGuestsPlaceholder": "السعة القصوى هي {{MaxGuests}}",
+        "selectDate": "حدد تاريخ",
+        "title": "النشاط",
+        "to": "إلى"
+      },
+      "addOns": {
+        "coverageOffers": "توفر التغطية طريقة ميسورة التكلفة لتغطية حجزك ضد الأضرار الناجمة عن \n فترة الإيجار. تغطية تصل إلى 2,000 ريال سعودي \n في مجموع الأضرار التي حدثت.",
+        "damageProtection": "الحماية من الأضرار",
+        "hostAddOns": "إضافات المضيف",
+        "makanatAddOns": "إضافات مكانات",
+        "noAddOns": "لا توجد إضافات متاحة لهذه المساحة",
+        "paidCash": "يتم دفع إضافات المضيف نقدا في الموقع",
+        "title": "الإضافات"
+      },
+      "cancelWithin": "يمكنك الإلغاء مجانا خلال 24 ساعة",
+      "confirm": {
+        "cancellationPolicy": "سياسة الإلغاء",
+        "couponLabel": "القسيمة",
+        "couponPlaceholder": "رمز الكوبون",
+        "getDiscount": "احصل على خصم",
+        "moreInfo": "لمزيد من المعلومات.",
+        "payWith": "ادفع من خلال",
+        "seeOur": "يرجى الاطلاع على",
+        "title": "تأكيد"
+      },
+      "discountOver": "خصم على الحجوزات فوق",
+      "hostResponseTime": "عند إكمال حجزك سيتم التواصل معك من قبل المضيف خلال مدة أقصاها ٤٨ ساعة.",
+      "minDuration": "الحد الأدنى للمدة",
+      "rate": "السعر",
+      "requestToBook": "طلب حجز مساحة",
+      "validations": {
+        "endTime": "يجب أن يأتي وقت الانتهاء بعد وقت البدء",
+        "maxNumber": "اقصى عدد للحضور هو {{maxGuests}}.",
+        "required": "هذا الحقل مطلوب",
+        "timeSlot": "الرجاء ملء جميع الفترات الزمنية"
+      }
+    },
+    "shared": {
+      "addDay": "إضافة يوم",
+      "agree": "من خلال الاستمرار في الحجز فإنك توافق على",
+      "at": "في",
+      "attendees": "الحضور",
+      "bookings": "الحجوزات",
+      "date": "التاريخ",
+      "duration": "المدة",
+      "hint": "سيتم محاسبتك على المبلغ، في حالة الإلغاء. سيتم إضافة المبلغ إلى رصيدك.",
+      "hour": "ساعة",
+      "hours": "ساعة",
+      "include": "والتي تشمل",
+      "makanatServices": "اتفاقية خدمة مكانات",
+      "newRequest": "حجز جديد",
+      "price": "السعر",
+      "refund": "سياسة الإلغاء والاسترداد",
+      "sortAndFilter": "فرز وتصفية",
+      "statuses": {
+        "canceled": "ألغيت",
+        "completed": "اكتملت",
+        "confirmed": "المؤكدة",
+        "draft": "مسودة",
+        "expired": "لايوجد رد",
+        "past": "السابقة",
+        "pendingHostApproval": "بانتظار التأكيد",
+        "rejected": "غير متاحة",
+        "upcoming": "جديدة"
+      },
+      "total": "المجموع",
+      "totalHours": "مجموع الساعات"
+    }
+  },
+  "cancellationPolicy": {
+    "cancellationDeadlines": {
+      "content": "All cancellation periods are calculated based upon local time for the Space.",
+      "title": "Calculating Cancellation Deadlines:"
+    },
+    "cancellationOptions": {
+      "choose": "Hosts must choose one of the following cancellation policies:",
+      "introduction": "Since each space is of a different nature, so a single cancellation policy does not fit all Booking circumstances. Therefore, it is necessary to provide a spectrum of options to enable Hosts choose the policy that works best for their space and business.",
+      "optionFour": "Guests may cancel their Booking until 30 days before the event start time and will receive a full refund (including all Fees) of their Booking Price. Guests may cancel their Booking between 30 days and 7 days before the event start time and receive a 50% refund (excluding Fees) of their Booking Price. Cancellations submitted less than 7 days before the Event start time are not refundable.",
+      "optionFourTitle": "STANDARD 90 DAYS  CANCELLATION:",
+      "optionOne": "Guests may cancel their Booking until 24 hours before the event start time and will receive a full refund for (include all Fees) of their Booking Price. Booking cancellations submitted less than 24 hours before the Event start time are not refundable.",
+      "optionOneTitle": "VERY FLEXIBLE CANCELLATION:",
+      "optionThree": "Guests may cancel their Booking until 30 days before the event start time and will receive a full refund (including all Fees) of their Booking Price. Guests may cancel their Booking between 30 days and 7 days before the event start time and receive a 50% refund (excluding Fees) of their Booking Price. Cancellations submitted less than 7 days before the Event start time are not refundable.",
+      "optionThreeTitle": "STANDARD 30 DAYS CANCELLATION:",
+      "optionTwo": "Guests may cancel their Booking until 7 days before the event start time and will receive a full refund (including all Fees) of their Booking Price. If Bookings is cancelled by Guests between 7 days and 48 hours before the event start time, Gusts will receive a 50% refund (excluding Fees) of their Booking Price. Booking cancellations submitted less than 48 hours before the Event start time are not refundable.",
+      "optionTwoTitle": "FLEXIBLE CANCELLATION:",
+      "title": "CANCELLATION POLICY CHOICES FOR HOSTS"
+    },
+    "confirmCancellation": {
+      "content": "A Booking is only officially cancelled once the Guest has received confirmation of the cancellation from Makanat.",
+      "title": "Cancellation Confirmation:"
+    },
+    "generalConditions": {
+      "sectionOne": "Makanat is designed to help all Services Providers to complete the Bookings with \n convenient and efficient. Every Booking is a commitment by Space Provider (the “Host”) to make a Space available to an Event Organizer (“Guest”). When Guests cancel Bookings, the Host may lose the opportunity to have Space booked during that time. When Hosts cancel Bookings, Guests’ events and plans can be severely impacted Nonetheless, necessity may impose change in plans, requiring Guests or Hosts to cancel Bookings on occasion.",
+      "sectionThree": "If any dispute arises as to the Cancellation Policy among the Services Providers and/or the User, the dispute shall be referred to Makanat for resolution and its decision shall be final and binding on both parties in the absence of manifest error or fraud. The parties shall provide and, as necessary, shall procure that any relevant third party shall provide, to Makanat, all informa6on, assistance and documents as Makanat reasonably require for the purpose of reaching a decision.",
+      "sectionTwo": "All Bookings shall adhere to Grace Period as set out in the Makanat’s Cancellation Policy for providing a full refund for Bookings cancelled. To benefit from the full refund policy, the cancellation should be made within 24 hours from receipt of a Booking Confirmation but no later than 48 hours prior to the Event start time.",
+      "title": "الشروط العامة"
+    },
+    "hostCancellation": {
+      "sectionOne": {
+        "content": "the case of cancellation by a Host, the Host may be responsible for costs, expenses, and other losses, and be subject to Fines. A Host agrees to be subject to the following penalties as a result of an unexcused Host-Initiated Cancellation:",
+        "pointOne": "A Fine of 15% of the total price of the Booking as being space-displacement costs for Guests.",
+        "pointTwo": "Delisting of the Host’s Space if the other Hosts, influenced by the behaviour of the Host, cancel multiple Bookings within a six-month period of the cancellation by the Host."
+      },
+      "sectionTwo": {
+        "content": "A Booking is only officially cancelled once the Guest has received confirmation of the cancellation from Makanat. After submission, Makanat may allow or require up to 48 hours to finalize the cancellation."
+      },
+      "title": "Fines for Host-Initiated Cancellations:"
+    },
+    "multiDayBookings": {
+      "content": "For multi-day and nonconsecutive-day Bookings, the deadline for cancellation set forth in the applicable cancellation policy shall apply to Event start time for each day in which the Space is Booked.",
+      "title": "Multi-Day Bookings:"
+    },
+    "title": "سياسة الإلغاء"
+  },
+  "contactUs": {
+    "descriptionNote": "يرجى إدخال تفاصيل طلبك. سوف يستجيب أحد أعضاء فريق الدعم لدينا في أقرب وقت ممكن.",
+    "requestType": "نوع الطلب",
+    "socialNetworks": "متواجدين على شبكات التواصل",
+    "subtitle": "إذا لم تتمكن من العثور على إجابة مرضية من خلال دليل الخدمة المخصص لدينا، يسعدنا الإجابة على أي أسئلة قد تكون لديك. يرجى السماح بـ 24 ساعة للرد عبر البريد الإلكتروني. إذا كنت بحاجة إلى مساعدة فورية، يرجى النقر على فقاعة الدردشة في الزاوية اليمنى السفلى وسيقوم أحد ممثلينا بمساعدتك.",
+    "title": "تواصل معنا"
+  },
+  "footer": {
+    "FAQ": "الأسئلة الشائعة",
+    "aboutUs": "عن مكانات",
+    "activities": "جميع الأنشطة",
+    "blog": "المدونة",
+    "contactUs": "تواصل معنا",
+    "discover": "اكتشف",
+    "explore": "اكتشف",
+    "legal": "القوانين",
+    "licenseAgreement": "عقد المساحة",
+    "locations": "المدن",
+    "madeIn": "صُنع في الرياض",
+    "privacy": "الخصوصية",
+    "privacyPolicy": "سياسة الخصوصية",
+    "refundPolicy": "سياسة الاسترجاع",
+    "secureCheckout": "طرق دفع آمنة ومتعددة",
+    "services": "الخدمات",
+    "subscribeForNews": "اشترك للحصول على الأخبار والتحديثات والأحداث الحصرية",
+    "terms": "شروط الإستخدام",
+    "termsOfUse": "شروط الاستخدام"
+  },
+  "guest": {
+    "hostedBy": "في ضيافة",
+    "noLikedSpaces": "لا توجد مساحات",
+    "tabs": {
+      "likedSpaces": "المفضلة",
+      "payment": "الدفع"
+    }
+  },
+  "header": {
+    "activities": "قائمة الأنشطة",
+    "booking": "الحجوزات",
+    "hosting": "الاستضافة",
+    "listYourSpace": "اطرح مساحتك1",
+    "profileMenu": {
+      "accountSettings": "إعدادت الحساب",
+      "logout": "تسجيل الخروج",
+      "profile": "الملف الشخصي"
+    }
+  },
+  "home": {
+    "aboutMakanat": {
+      "efficiencyAndEase": "تواصل<br /> <span class='text-blue'>مرن</span>",
+      "efficiencyAndEaseContent": "ابحث عن المساحة المناسبة، تواصل مع المضيف واحجزها بصورة قانونية ومباشرة من خلال المنصة. متواجدين 24/7 لخدمتك والاجابة على استفساراتك.",
+      "enablingCommunities": "<span class='text-blue'>تمكين</span><br /> المجتمعات",
+      "enablingCommunitiesContent": "ندعم احتياجات المستقلين والمحترفين من مبدعين ورواد أعمال لإظهار مواهبهم وأفكارهم في مساحات ملهمة وموارد يمكن الاستفادة منها بأقل التكاليف.",
+      "forGuests": "للضيوف",
+      "forGuestsContent": "سوق لمنظمي الفعاليات يمكّنهم البحث وحجز المساحة المناسبة بنظام وسهولة.",
+      "forHosts": "للمضيف",
+      "forHostsContent": "منصة واداة لأصحاب المساحات لإدراج وإدارة أماكنهم وتأجيرها بكفاءة عالية.",
+      "spacesPurposes": "مساحات<br /> <span class='text-blue'>لأغراض متعددة</span>",
+      "spacesPurposesContent": "سواء كنت بحاجة إلى استديو تصوير، غرفة إجتماع، صالة يوغا، أو مساحة لفعالية عامة أو خاصة. مكانات تساعدك في الوصول للمكان الي يخدم أنشطتك بأسرع وأسهل الطرق.",
+      "subtitle": "وسوق لإيجاد وإتاحة المساحات والمواقع المجهزة للمبدعين والمحترفين لتجسيد إبداعهم وإنجاز أعمالهم والاحتفال بأوقاتهم. صنعنا هذه الخدمة لتعزيز التعاون في المجتمعات المضيافة وتقديم تجربة تجمع جديدة لمجتمع أكثر إرتباط وإبداع.",
+      "title": "ما هي مكانات ؟"
+    },
+    "activities": {
+      "allActivities": "عرض جميع الأنشطة",
+      "bookSpaceFor": "احجز المكان المناسب لفعاليتك!",
+      "perfectSpaceFor": "اعثر على مساحتك المناسبة"
+    },
+    "cities": {
+      "allCities": "عرض جميع المدن",
+      "citiesNationwide": "في كل مدينة لك مكان !"
+    },
+    "hero": {
+      "title": "أعمال، صناعة المحتوى، واحتفال"
+    }
+  },
+  "host": {
+    "listings": {
+      "aboutStep": {
+        "listingData": {
+          "bulletPoints": [
+            {
+              "boldText": "الموقع",
+              "normalText": "حضري، وسط المدينة، مارينا"
+            },
+            {
+              "boldText": "نوع المساحة -",
+              "normalText": "دور علوي، استوديو، قاعة، بنتهاوس"
+            },
+            {
+              "boldText": "صفة فريدة -",
+              "normalText": "صناعي، حديث، فسيح"
+            }
+          ],
+          "inputLabel": "مثال: 'شقة' 'استوديو' 'كوفي شوب'",
+          "inputPlaceholder": "أدخل عنوان مساحتك",
+          "title": "حاول ان تشمل ما يلي:"
+        },
+        "spaceDescription": {
+          "bulletPoints": [
+            "ما هي الأنشطة التي تتوافق مع مساحتك؟",
+            "تخطيط المساحة وكيف يمكن استخدام مناطق مختلفة؟",
+            "ما هي الميزات الفريدة التي تمتلكها مساحتك؟"
+          ],
+          "guestsWant": "يريد الضيف معرفة التالي:",
+          "inputLabel": "مثال: رقم الهاتف أو اسم المكان أو العنوان أو البريد الإلكتروني أو الروابط إلى موقع الويب الخاص بك.",
+          "inputPlaceholder": "وصف المكان",
+          "subtitle": "دع الضيوف يعرفون كل ما تقدمه مساحتك.",
+          "title": "اوصف مساحتك",
+          "warning": "لا تقم بمشاركة معلومات الاتصال:"
+        },
+        "spaceInstructions": {
+          "dontWorry": "لا تقلق، سنقوم بمشاركة هذه المعلومات مع الضيوف فقط بعد قبولك للحجز.",
+          "include": "حاول أن تشمل:",
+          "inputNote": "يتم إرفاق تعليمات الوصول للموقع وشبكة الانترنت أسفل رسالتك عند قبولك للحجز.",
+          "inputPlaceholder": "مثال: نحن موجودون في على تقاطع طريق العروبة مع الملك فهد. بوابة زجاجية بجانب محل خبير الثوب. الدور الثاني، مكتب رقم 1",
+          "spaceDirections": "الاتجاهات إلى المبنى، الأبواب، الدرج/الوصول إلى المصعد، إلخ.",
+          "subtitle": "ساعد ضيوفك والحاضرين في العثور على مساحتك وتوجيهات الدخول",
+          "title": "وفر تعليمات الوصول"
+        },
+        "spaceRules": {
+          "example": "أمثلة لبعض القواعد:",
+          "examplesList": [
+            "ممنوع التدخين في المبنى",
+            "يُسمح بتقديم الطعام",
+            "لا يسمح بالحيوانات"
+          ],
+          "inputPlaceholder": "أدخل قواعد المكان",
+          "subtitle": "أي قواعد حول ما يمكن لضيوفك فعله وما لا يمكنهم فعله في المساحة.",
+          "title": "ما هي قواعد المكان؟",
+          "warning": "لا تشمل:",
+          "warningList": [
+            {
+              "boldText": "رسوم التنظيف - ",
+              "normalText": "التنظيف مسؤولية المضيف. إذا كنت تقوم بتحصيل رسوم تنظيف، يمكنك إضافتها في قسم لاحق."
+            },
+            {
+              "boldText": "أدوات الاتصال - ",
+              "normalText": "يتم تغطية الحجوزات في مكانات بموجب اتفاقية الخدمة الخاصة بنا التي تشمل سياسة إلغاء من اختيارك وشروط استخدام عامة."
+            }
+          ]
+        },
+        "spaceSize": {
+          "example": "أمثلة: إذا كانت مساحتك 200 متر مربع، ولكن الضيوف يحجزون غرفة اجتماعات بمساحة 40 مترًا مربعًا، يمكنك إدخال «40\".",
+          "inputPlaceholder": "40",
+          "title": "ما حجم المساحة التي يمكن للضيوف حجزها؟",
+          "unit": "م²",
+          "warning": "يرجى فقط تضمين حجم المساحة التي يمكن للضيوف استخدامها أثناء الحجز. السابق. اجتماع، حدث، إنتاج"
+        },
+        "subtitle": "العناوين البسيطة تزيد من استعراض المساحة",
+        "title": "امنح مساحتك عنوانًا",
+        "wifiPassword": {
+          "passwordExample": "كلمة المرور: '12345678'",
+          "subtitle": "سهل عملية الوصول للإنترنت من خلال مشاركة معلومات المودم.",
+          "title": "الواي فاي الخاص بالمساحة وكلمة المرور؟",
+          "usernameExample": "اختياري - مثال: الاسم 'MakanatGuest'"
+        }
+      },
+      "activitiesStep": {
+        "add": "أضِف وسائل ",
+        "addOns": {
+          "currency": "ر.س",
+          "description": "وصف الإضافة",
+          "subtitle": "هنا يمكنك عرض وسائل او خدمات مقابل رسوم. تأكد من أنها مميزة!",
+          "title": "وسائل مميزة بسعر مستقل؟",
+          "type": "نوع الإضافة"
+        },
+        "amenities": {
+          "addAmenities": "أضف وسائل من عندك ",
+          "allAmenities": "تسعيرتك تشمل جميع وسائل الراحة والأدوات التي ستحددها",
+          "amenitiesIncluded": "يشمل وسائل الراحة",
+          "inputPlaceholder": "وسائل اخرى"
+        },
+        "capacity": "السعة",
+        "cleaningFee": "رسوم التنظيف",
+        "cleaningFeeResponsibility": "أنت المسؤول عن التنظيف بعد كل حجز. يمكنك فرض رسوم لتغطية التكاليف.",
+        "encourageGuest": "شجع الضيوف على الحجز لفترة أطول من خلال تقديم خصم للحجز",
+        "hourDiscount": "خصم المضيف",
+        "hourlyRate": "سعر الساعة",
+        "hoursRange": "يجب أن يكون بين 1-12 (ساعة)",
+        "makanatCollects": "تحصل مكانات على رسوم خدمة 15% على كل حجز. يرجى احتساب هذه الرسوم في سعر الساعة.",
+        "maxGuests": "الحد الأقصى للحضور",
+        "minHours": "أدنى مدة للحجز",
+        "pricing": "التسعير",
+        "select": "تحديد",
+        "selected": "تم تحديده",
+        "subtitle": "حدد أنواع الأنشطة",
+        "title": "ما هي الأنشطة التي ترغب في استضافتها؟"
+      },
+      "addNew": "+ مساحة جديدة",
+      "availabilityStep": {
+        "addHours": "أضف نافذة",
+        "allDay": "طوال اليوم (24 ساعة)",
+        "available": "متاح",
+        "description": "ساعات التشغيل وهي الساعات المسموح فيها للضيوف حجز المكان خلال الأسبوع. لن يستطيع الضيف إرسال طلب حجز خارج ساعات التشغيل التي تحددها.",
+        "friday": "الجمعة",
+        "monday": "الاثنين",
+        "notAvailable": "غير متاح",
+        "saturday": "السبت",
+        "setHours": "ساعات معينة",
+        "sunday": "الأحد",
+        "thursday": "الخميس",
+        "title": "ساعات التشغيل",
+        "to": "إلى",
+        "tuesday": "الثلاثاء",
+        "wednesday": "الأربعاء"
+      },
+      "cancellationsStep": {
+        "gracePeriod": {
+          "subtitle": "يجب التقيد التام بالمهل الزمنية المقررة للمطالبة باسترداد كامل قيمة الحجوزات التى يتم إلغائها وفقا لسياسة الإلغاء الخاصة بمنصة مكانات. للاستفادة من سياسة استرداد كامل قيمة الحجز يجب أن يقع الإلغاء خلال ( 24 ) ساعة من تاريخ استلام تأكيد الحجز وبما لا يقل عن ( 48 ) ساعة من الوقت المقرر لبدء الفاعلية.",
+          "title": "فترة السماح للإلغاء:"
+        },
+        "policies": [
+          {
+            "content": [
+              "يجوز للضيوف إلغاء حجوزاتهم بشرط أن يقع الإلغاء قبل (24) ساعة من الموعد المحدد لبدء الفاعلية. وفى هذه الحالة سيحصل الضيوف على استرداد كامل (بما في ذلك جميع الرسوم) عن مقابل الحجوزات الملغاة. ولا يجوز استرداد مقابل الحجوزات التى يجرى إلغائها فى مدة أقل من (24) ساعة من وقت بدء الفاعلية."
+            ],
+            "label": "مرن للغاية",
+            "value": "مرن للغاية"
+          },
+          {
+            "content": [
+              "إلغاء مرن: يجوز للضيوف إلغاء حجوزاتهم بشرط أن يقع الإلغاء قبل (7) أيام من الموعد المحدد لبدء الفاعلية. وفى هذه الحالة سيحصل الضيوف على استرداد كامل (بما في ذلك جميع الرسوم) عن مقابل الحجوزات الملغاة.",
+              " إذا وقع إلغاء الحجوزات فى الفترة ما بين (7) أيام إلى ما قبل (48) ساعة من الوقت المحدد لبدء الفاعلية، يحق للضيوف استرداد 50٪ من مقابل الحجوزات المدفوعة (باستثناء الرسوم).",
+              " ولا يجوز استرداد مقابل الحجوزات التى يجرى إلغائها فى مدة أقل من 48 ساعة من وقت بدء الفاعلية."
+            ],
+            "label": "إلغاء مرن",
+            "value": "إلغاء مرن"
+          },
+          {
+            "content": [
+              "إلغاء بموجب إخطار مدته 30 يومًا: يجوز للضيوف إلغاء حجوزاتهم بشرط أن يقع الإلغاء قبل ثلاثين (30) يوم من الموعد المحدد لبدء الفاعلية. وفى هذه الحالة سيحصل الضيوف على استرداد كامل (بما في ذلك جميع الرسوم) عن مقابل الحجوزات الملغاة.",
+              "إذا وقع إلغاء الحجوزات فى الفترة ما بين ثلاثين (30) يوم إلى ما قبل سبعة (7) أيام من الوقت المحدد لبدء الفاعلية، فلا يجوز للضيوف إلا استرداد 50٪ من مقابل الحجوزات المدفوعة (باستثناء الرسوم).",
+              " لا يجوز استرداد مقابل الحجوزات التى يجرى إلغائها فى مدة أقل من سبعة (7) أيام من وقت بدء الفاعلية."
+            ],
+            "label": "قياسي 30 يوم",
+            "value": "قياسي 30 يومًا"
+          },
+          {
+            "content": [
+              " يجوز للضيوف إلغاء حجوزاتهم بشرط أن يقع الإلغاء قبل (90) يوم من الموعد المحدد لبدء الفاعلية. وفى هذه الحالة سيحصل الضيوف على استرداد كامل (بما في ذلك جميع الرسوم) عن مقابل الحجوزات الملغاة.",
+              " إذا وقع إلغاء الحجوزات فى الفترة ما بين تسعين (90) يوم إلى ما قبل أربعة عشر (14) يوما من الوقت المحدد لبدء الفاعلية، فلا يجوز للضيوف إلا استرداد 50٪ من مقابل الحجوزات المدفوعة (باستثناء الرسوم).",
+              "ولا يجوز استرداد مقابل الحجوزات التى يجرى إلغائها فى مدة أقل من أربعة عشر (14) يوما من وقت بدء الفاعلية."
+            ],
+            "label": "إلغاء بموجب إخطار مدته 90 يومًا",
+            "value": "إلغاء بموجب إخطار مدته 90 يومًا"
+          }
+        ],
+        "subtitle": "تأكد من مناسبتها مع نوعية المكان والأنشطة التي تريد استضافتها. سياسة إلغاء مرنة تساعد مساحتك تكون من الأماكن المفضلة للضيوف.",
+        "title": "اختر سياسة الإلغاء المناسبة لك"
+      },
+      "deleteListing": "حذف",
+      "editListing": "تحرير",
+      "editPhotos": "ألبوم الصور",
+      "lastUpdated": "آخر تحديث",
+      "locationStep": {
+        "inputLabel": "الموقع الجغرافي",
+        "inputPlaceholder": "أدخل موقع المساحة",
+        "subtitle": "يتم مشاركة العنوان بدقة مع الضيف بعد تأكيدك للحجز.",
+        "title": "عنوان المكان"
+      },
+      "noListings": "لاتوجد مساحات",
+      "photosStep": {
+        "minimumCount": "أضف على الأقل 5 صور للمساحة",
+        "requirements": "شروط الصورة:",
+        "requirementsList": [
+          {
+            "boldText": "دقة عالية -",
+            "normalText": "عرض 1,000 بكسل كحد أدنى"
+          },
+          {
+            "boldText": "اتجاه أفقي -",
+            "normalText": "لا ترفع صور عمودية"
+          },
+          {
+            "boldText": "صور ملونة - ",
+            "normalText": "بدون فلتر أو أسود وأبيض"
+          },
+          {
+            "boldText": "اخرى - ",
+            "normalText": "لا توجد شعارات، علامات تجارية"
+          }
+        ],
+        "subtitle": "الصور هي أول ما يراه الضيوف. نوصي بإضافة 10 صور عالية الجودة أو أكثر.",
+        "title": "قم برفع صور للمكان"
+      },
+      "policiesStep": {
+        "congratulations": "شكراً لك",
+        "congratulationsMsg": "شكراً لإهتمامك في ضيافة المجتمع.\nامنحنا 24 ساعة لمراجعة طلبك، يمكنك معرفة حالة الطلب من خلال صفحة الاستضافة. سيصلك بريد إلكتروني يفيد بحالة الطلب بعد معالجته.",
+        "estateOptions": [
+          {
+            "label": "تجاري",
+            "value": "تجاري"
+          },
+          {
+            "label": "سكني",
+            "value": "سكني"
+          }
+        ],
+        "estateTitle": "ما نوع العقار؟",
+        "goToListing": "مساحاتي",
+        "policies": {
+          "checkboxDescription1": "حافظ على المحادثات مع الضيوف على المنصة حتى يعرف الجميع ما تم الاتفاق عليه.",
+          "checkboxDescription2": "يجب أن تظل المدفوعات في مكانات وأن تحترم رسوم خدمة حيث انها وسيلتنا في تطوير هذا القطاع. نحن نعمل معا.",
+          "checkboxDescription3": "يتم اصدار إتفاقية تأجير بين الأطراف المعنية تحتوي على تفاصيل الحجز، قواعد المضيف، سياسة الإلغاء، وشروط استخدام مكانات. أي عقود أخرى غير مسموح بها.",
+          "checkboxDescription4": "اتبع القوانين واللوائح المحلية لضمان سلامة ضيوفك ونفسك ومساحتك.",
+          "checkboxOption1": "أن احافظ على بقاء المحادثات في المنصة",
+          "checkboxOption2": "أن استخدم مكانات لمعالجة المدفوعات",
+          "checkboxOption3": "أن اتبع سياسات الحجز والإلغاء",
+          "checkboxOption4": "أن أتأكد من أن مساحي تتوافق مع اللوائح والقوانين المحلية",
+          "subtitle": "أوافق أنه بصفتي مضيفًا في مكانات، فأنا مطالب بـ",
+          "title": "للحفاظ على حقوق الجميع والاستمرار في الاستفادة من الخدمة، يرجى مراجعة السياسات التالية"
+        },
+        "provideDocuments": "<span class='font-weight-bold'>يرجى تقديم وثائق لإثبات؟ </span>يمكنك تخطيها الآن، تحتاج إلى تحميلها قبل الحجز الأول.",
+        "relationOptions": [
+          {
+            "label": "المالك",
+            "value": "المالك"
+          },
+          {
+            "label": "مدير المساحة",
+            "value": "مدير المساحة"
+          }
+        ],
+        "relationTitle": "حدد علاقتك بهذة المساحة",
+        "vatLabel": "اذا كانت مساحتك تجارية وخاضعة لضريبة القيمة المضافة، سيتم توفير تقارير آلية توفر عليك بعض الجهد والوقت المحاسبي."
+      },
+      "publicView": "مشاهدة",
+      "setupStep": {
+        "kindOfSpace": {
+          "inputLabel": "مثال: 'شقة' 'استوديو' 'كوفي شوب'",
+          "inputPlaceholder": "أدخل نوع المساحة",
+          "subtitle": "أدخل نوع المساحة التي تمثل المكان الفعلي.",
+          "title": "ما نوع من المساحة؟"
+        },
+        "parkingOptions": {
+          "options": [
+            "مواقف سيارات مجانية",
+            "مواقف سيارات عامة مجانية",
+            "ڤاليه",
+            "مواقف سيارات عامة مدفوعة",
+            "موقف سيارات قريب"
+          ],
+          "selectAll": "حدد كل ما ينطبق",
+          "subtitle": "هل هناك خيارات لوقوف السيارات في مساحتك أو بالقرب منها؟",
+          "textareaLabel": "صف خيارات وقوف السيارات",
+          "title": "اوصف خيارات وقوف السيارات"
+        }
+      },
+      "statuses": {
+        "active": "نشطة",
+        "all": "جميع المساحات",
+        "inReview": "قيد المراجعة",
+        "unpublished": "غير منشورة"
+      },
+      "stepper": {
+        "about": {
+          "subtitle": "إضافة عنوان ووصف وقواعد",
+          "title": "عن المساحة"
+        },
+        "activities": {
+          "subtitle": "اختر الأنشطة التي ترغب في استضافتها وحدد سعرك",
+          "title": "الانشطه"
+        },
+        "availability": {
+          "subtitle": "حدد ساعات التشغيل",
+          "title": "الإتاحة"
+        },
+        "cancellations": {
+          "subtitle": "حدد سياسة الإلغاء الخاصة بك",
+          "title": "سياسة الالغاء"
+        },
+        "edit": "تعديل",
+        "location": {
+          "editLocation": "لا يمكنك تعديل الموقع",
+          "subtitle": "أدخل موقع المساحة",
+          "title": "الموقع"
+        },
+        "photos": {
+          "subtitle": "ارفع صور للمكان وحدد صورة الغلاف",
+          "title": "الصور"
+        },
+        "policies": {
+          "subtitle": "تعرف على سياسات المضيف المهمة",
+          "title": "السياسات"
+        },
+        "setup": {
+          "subtitle": "أضف نوع المساحة ومعلومات وقوف السيارات",
+          "title": "الإعداد"
+        }
+      },
+      "updateListing": "تحديث المساحة"
+    },
+    "sideNavs": {
+      "calendar": "التقويم",
+      "inbox": "طلبات الحجز",
+      "listings": "مساحاتي",
+      "reporting": "الإحصائيات والدخل",
+      "welcomeBack": "أهلاً وسهلاً بك"
+    },
+    "validations": {
+      "descriptionLength": "يمكن أن يحتوي الوصف على 140 حرفًا كحد أدنى",
+      "endTime": "يجب أن يكون الوقت أكبر من وقت البدء",
+      "greater": "يجب أن يكون أكبر من 0",
+      "isNumber": "يجب أن يكون حجم المساحة رقمًا",
+      "less": "يجب أن يكون أقل من أو يساوي 12",
+      "maxChar": "35 حرفًا كحد أدنى",
+      "min": "يجب أن يكون أكبر من (الحد الأدنى لحجز المساحة)",
+      "required": "هذا الحقل مطلوب",
+      "selection": "يجب تحديد خيار واحد على الأقل",
+      "titleLength": "يمكن أن يحتوي عنوان المسافة على 100 حرف كحد أقصى"
+    }
+  },
+  "profile": {
+    "averageRating": "التقييم",
+    "guestProfile": "ملف الضيف",
+    "hostProfile": "ملف المضيف",
+    "hr": "ساعة",
+    "joined": "انضم",
+    "lastLogin": "آخر ظهور:",
+    "listings": "مساحاتي",
+    "reviews": "مراجعات الضيوف",
+    "reviewsFromHosts": "مراجعات من المضيفين"
+  },
+  "profileSettings": {
+    "payments": {
+      "subtitle": "تسمح لنا إضافة بطاقة ائتمان بخصم رسوم الحجوزات من غير تأجيل قد يعيق عملية الحجز. يتم إرسال هذه المعلومات بشكل آمن إلى مزود الدفع الخاص بنا ولا يتم تخزينها في قاعدة البيانات لدينا أبدًا.",
+      "title": "طرق الدفع"
+    },
+    "payouts": {
+      "description": "يتم إيداع الأموال بعد حوالي 72 ساعة من موعد تسجيل المغادرة المحدد للضيف. يعتمد الوقت الذي يستغرقه ظهور الأموال في حسابك على طريقة الدفع الخاصة بك.",
+      "subtitle": "لنتمكن من إيداع المبالغ لحسابك، من فضلك تأكد من تعبئة واكمال معلومات حسابك في البنك.",
+      "title": "المدفوعات"
+    },
+    "personalInfo": {
+      "about": "نبذة عنك",
+      "aboutPlaceholder": "اكتب بضع كلمات عن نفسك، يحب الناس معرفة من يتعاملون معه",
+      "addFile": "رفع ملف",
+      "additionalInfo": "معلومات إضافية",
+      "companyName": "اسم الشركة",
+      "confirmEmail": "تأكيد البريد الإلكتروني",
+      "governmentID": "الهوية الوطنية",
+      "hint": "160 حرف أو أقل",
+      "idNote": "جزء من مهمتنا في مكانات هي المحافظة على خصوصية عملائنا، بياناتكم الشخصية مجرد للتوثيق ورفع مستوى الثقة بين مستفيدي الخدمة.",
+      "note": "ملاحضة:",
+      "photosNote": "غير مسموح مشاركة صورة للمكان أو علامة تجارية أو الصور الجماعية. \n",
+      "profilePhoto": "صورة الملف الشخصي",
+      "role": "نبذة عنك",
+      "rolePlaceholder": "مخرج، مصور، مدير علاقات، طالب",
+      "saveChanges": "حفظ",
+      "subtitle": "إضافة نبذة شخصية عنك ترفع من مستوى القبول بينك وبين المضيفين.",
+      "title": "المعلومات شخصية",
+      "uploadProfilePhoto": "تحميل صورة الملف الشخصي",
+      "uploadingFileExamples": "مثال: رخصة القيادة أو جواز السفر أو بطاقة الهوية الوطنية",
+      "verifyPhone": "توثيق الهاتف"
+    },
+    "sideNavs": {
+      "forHosts": "للمضيف",
+      "notifications": "الإشعارات",
+      "payments": "طرق الدفع",
+      "payouts": "طرق المدفوعات",
+      "personalInfo": "معلومات شخصية",
+      "security": "تسجيل الدخول والأمان"
+    }
+  },
+  "publicListings": {
+    "details": {
+      "aboutSpace": "عن المساحة",
+      "allDay": "24 ساعة",
+      "amenities": "أدوات ووسائل الراحة",
+      "available": "متاح",
+      "bookingIncluded": "حجزك يتضمن",
+      "cancellationPolicy": "سياسة الإلغاء",
+      "holdEvents": "هذه المساحة مرخصة لعقد فعاليات عامة",
+      "hostRules": "قواعد المضيف",
+      "hostedBy": "في ضيافة",
+      "joined": "انضم",
+      "location": "المكان",
+      "moreReviews": "المزيد من المراجعات",
+      "noParking": "لا يوجد موقف سيارات متاح",
+      "notAvailable": "غير متوفر",
+      "operatingHours": "ساعات التشغيل",
+      "parking": "المواقف",
+      "readLess": "اقرأ أقل",
+      "readMore": "اقرأ المزيد",
+      "reviews": "مراجعات الضيوف"
+    },
+    "list": {
+      "attendees": "الحضور",
+      "distance": "المسافة",
+      "dragOnMap": "ابحث أثناء سحب الخريطة",
+      "filterTitle": "التصفية والفرز",
+      "map": "الموقع",
+      "mapTitle": "المواقع على هذه الخريطة ليست دقيقة. ستحصل على معلومات أدق عند تأكيد حجزك.",
+      "noResults": "للأسف لايوجد نتائج",
+      "planningFor": "مانوع النشاط؟",
+      "priceRange": "السعر",
+      "relevance": "ملاءمة",
+      "reset": "إعادة تعيين",
+      "sortBy": "فرز حسب",
+      "spaces": "مساحة"
+    }
+  },
+  "shared": {
+    "address": "العنوان",
+    "apply": "تطبيق",
+    "attachments": "المرفقات",
+    "back": "رجوع",
+    "changePhoneNumber": "تغيير رقم الهاتف",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "contactUs": "تواصل معنا",
+    "continue": "متابعة",
+    "continueWith": "واصل باستخدام",
+    "customerService": "المساعدة",
+    "days": [
+      {
+        "id": "الأحد",
+        "label": "الأحد"
+      },
+      {
+        "id": "الاثنين",
+        "label": "الاثنين"
+      },
+      {
+        "id": "الثلاثاء",
+        "label": "الثلاثاء"
+      },
+      {
+        "id": "الأربعاء",
+        "label": "الأربعاء"
+      },
+      {
+        "id": "الخميس",
+        "label": "الخميس"
+      },
+      {
+        "id": "الجمعة",
+        "label": "الجمعة"
+      },
+      {
+        "id": "السبت",
+        "label": "السبت"
+      }
+    ],
+    "description": "الوصف",
+    "email": "البريد الإلكتروني",
+    "emptyPlaceholderText": "لايوجد لديك",
+    "firstName": "الاسم الأول",
+    "invite": "دعوة",
+    "lastName": "اسم العائلة",
+    "learnMore": "أعرف أكثر",
+    "login": "دخول",
+    "makanat": "مكانات",
+    "newPassword": "كلمة المرور الجديدة",
+    "next": "التالي",
+    "no": "لا",
+    "password": "كلمة المرور",
+    "phoneNumber": "رقم الهاتف",
+    "privacy": "الخصوصية",
+    "search": "بحث",
+    "send": "إرسال",
+    "showMore": "عرض المزيد",
+    "signUp": "سجل الآن",
+    "subject": "الموضوع",
+    "submit": "إكمال",
+    "terms": "الشروط والأحكام",
+    "update": "تحديث",
+    "uploadFile": "أضف أو أسقط الملفات هنا",
+    "username": "اسم المستخدم",
+    "what": "ما نوع الفعالية التي تخطط لها ؟",
+    "when": "متى؟",
+    "where": "أين؟",
+    "yes": "نعم"
+  },
+  "terms": {
+    "10Non-Compete": {
+      "content": "User covenants and agrees that it may not, directly or indirectly, compete with Makanat, or recruit, solicit, or induce, or attempt to recruit, solicit, or induce, any partner, employee, etc. of Makanat, even after the termination of all relations between the user and Makanat or the Services Providers.",
+      "title": "10. Non- Compete"
+    },
+    "11No-Circumvention": {
+      "sectionOne": "11-1 User acknowledges and agrees that this Platform has been originally designed to facilitate booking transactions. Therefore, in no event shall any User, circumvent Makanat in order to transact with any services provider or another User it has met via Makanat to book an Event at a Space that is listed on the Platform.",
+      "sectionTwo": "11-2 Makanat reserves the right to monitor all the activity on the Site or using the Services, including, without limitation, communications by and between Users and Services Providers, in order to monitor compliance with the foregoing non-circumvention requirements. If Makanat determines that any User is in violation of this Section, it reserves the right to immediately close his account with the Platform, deny his future access to the Platform, and remove any Space listings he may has on the Platform.",
+      "title": "11- No-Circumvention"
+    },
+    "12GoverningLawJurisdiction": {
+      "sectionOne": "12-1 The laws of the Kingdom of Saudi Arabia shall govern all matters arising out of or relating to this Terms of Use and the transactions it contemplates including, without limitation, its interpretation, construction, validity, performance and enforcement.",
+      "sectionTwo": "12-2 The Parties consent to the exclusive jurisdiction of the courts of the Kingdom of Saudi Arabia for any dispute, legal actions or proceedings arising out of or in connection with these Terms of Use (or the transactions it contemplates).",
+      "title": "12. Governing Law and Jurisdiction"
+    },
+    "13Severability": {
+      "content": "In the event that any of the provisions are held to be invalid or unenforceable in whole or in part, all other provisions shall nevertheless continue to be valid and enforceable.",
+      "title": "13- Severability"
+    },
+    "14PrevailingLanguage": {
+      "content": "These Terms of Use have been made in English and Arabic Language. In case of discrepancies between the English and the Arabic version, the Arabic version shall prevail.",
+      "title": "14- Prevailing Language"
+    },
+    "1Services": {
+      "sectionOne": "The purpose for creating this digital booking Platform is to help finding the perfect location for non-lodging activities with efficiency and ease.",
+      "sectionTwo": "These services include providing Directories for Space Providers, Event Organizers, and other Services Providers (collectively will be referred as “Services Providers”). Makanat does not interfere in evaluating any Services Providers. The inclusion of any Services Provider on Makanat Platform in any way or in the directory does not imply recommendation or endorsement of such Services Provider its information. The Service Provider is solely responsible for the appropriateness and quality of the services they provide.",
+      "title": "1. Services"
+    },
+    "2NatureOfTermsOfUse": {
+      "sectionOne": "2-1 The two parties agree that these Terms of Use , along with all the data which are to be generated, sent, received, or otherwise proceeded through this Platform, shall be considered as an electronic record generated by a computer system and does not require any physical or digital signatures.",
+      "sectionThree": "2-3 The User acknowledges and represents that data and information contained in this Platform are available for the purpose of help facilitating to find the perfect location for non-lodging activities with efficiency and ease, and shall not be considered by any means as a substitution for the Services Provider.",
+      "sectionTwo": "2-2 Makanat reserves the absolute right toadd, amend or update these Terms of Use at any time, and for any reason by posting the revised version of the Terms of Use the Platform. Such revised version shall become effective immediately after being posted on the Platform. The continued access or use of this application and any services contained therein as of the effective date of any such modification shall be deemed as acceptance to and abiding by the Terms of Use , as modified.",
+      "title": "2. Nature of the Terms of Use"
+    },
+    "3IndependentLegalRelationships": {
+      "sectionOne": "3-1 User acknowledges and represents that all the Services Providers made available by the Platform are independent contractors, and their relations with Makanat are fully independent from Makanat’s relationship with the user. Therefore, Makanat may not be liable (impliedly or explicitly) for any loss or damages as a result of such services. The inclusion of any Services Provider on Makanat Platform in any way or in the directory does not imply recommendation or endorsement of such Services Provider its information. The Service Provider is solely responsible for the appropriateness and quality of the services they provide.",
+      "sectionThree": "3-3 All the information of the directory including the information on the Services Providers are provided by the Services providers on “as-is” basis. the User shall exert his maximum care and diligence to ensure that such information are valid and correct.",
+      "sectionTwo": "3-2 Any opinions, advice, or information expressed by any Service Provider are those of Services Providers alone and they do not reflect the opinions of Makanat. Makanat does not recommend or endorse any specific products, procedures, opinions, or other information that may be mentioned on Makanat Platform.",
+      "title": "3. Independent Legal Relationships"
+    },
+    "4UsersAccountsRestrictions": {
+      "4-1UserAccounts": {
+        "sectionOne": "4-1-1 User is not obliged to register in order to visit the Platform. However, to access certain features of the services provided by Makanat, User will need to register with Makanat and create a User Account through an online registration process on the Platform.",
+        "sectionThree": "4-2-3 Your failure to maintain accurate, complete, and up-to-date Account information may result in your inability to access and use the Makanat Platform. You agree to maintain the security and secrecy of your Account username and password at all times. Unless otherwise permitted by Makanat in writing, you may only possess one Account.",
+        "sectionTwo": "4-2-2 User must provide Makanat with accurate and complete registration information. User must promptly notify Makanat if any of such information has changed.",
+        "title": "4-1 User Accounts"
+      },
+      "4-2RestrictionsUse": {
+        "sectionOne": "4-2-1 Users of 18 years old who can fulfill its contractual obligations in accordance with United Arab Emirates Laws, may only have the right access to the Makanat Platform. You may not authorize third parties to use your Account, and you may not assign or otherwise transfer your Account to any other person or entity.",
+        "sectionTwo": {
+          "content": "4-2-2 It is not permitted to use the Platform or its contents or information for any commercial or non-personal purpose (direct or indirect) or for any purpose that is illegal, unlawful or prohibited by the Terms of Use and public morals. Moreover, it is not permitted to modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer, or sell or re-sell any information, software, products, or services obtained from the Platform except with our prior written authorization. In addition, you particularly agree to:",
+          "pointEight": "Not to re-sell, use, copy, monitor display, download or reproduce any content or information, software, products or services available on the Platform or otherwise incorporate any part of the Platform into any other Platform without our prior written authorization from Makanat.",
+          "pointFive": "Not to disclose of materials shared, or dissemination of material that may infringe on the intellectual property rights of any person, or may be offensive or defamatory, or prohibited.",
+          "pointFour": "Not to transfer of any data that contain viruses, spyware or other malicious programs.",
+          "pointOne": "Not to broadcast any unauthorized promotional materials, or any other form of seduction (\"spam\").",
+          "pointSeven": "Not to tampering with data, information, and attempt to modify or destroy any security or documentary procedures.",
+          "pointSix": "Not to access, monitor or copy any content or information of the Site using any robot, spider, scraper or other automated means or any manual process for any purpose without our express prior written permission",
+          "pointThree": "Not to disclose any information and/or data and/or advertising and/or marketing of any product and/or incitement to an act or omission to act considered illegal by the sharia law and/or the law and/or public order and/or morals, including crime and/or breach.",
+          "pointTwo": "Not to use the Platform or its contents for any non-authorized commercial purpose."
+        },
+        "title": "4-2 Restrictions on Use"
+      },
+      "title": "4. Users Accounts and Restrictions"
+    },
+    "5SpaceBooking": {
+      "sectionOne": "5-1 Makanat will exert every effort to ensure that Users are provided confirmed Space Booking. However Makanat has no liability if such a booking is later cancelled by the Services Providers.",
+      "sectionTwo": {
+        "content": "5-2 It is understood that Makanat is acting as a mere facilitator for digital booking platform, and therefore, Makanat is not responsible for any interactions between User and Service Provider. User understands and agrees that Makanat will not be liable for:",
+        "pointOne": "Any act or omission by the Services Provider or their respective staff;",
+        "pointTwo": "Cancellation or rescheduling of the booking, or otherwise."
+      },
+      "title": "5. Space Booking"
+    },
+    "6PricesPaymentTaxesRefundPolicy": {
+      "sectionOne": "6-1 Prices and Payment: Makanat does not charge any fee for accessing, and browsing through the Platform. However, Makanat may collect payments from User on behalf of Services Providers. User agrees and acknowledges that he shall not hold Makanat responsible for any loss or damage caused during the process of collection of payments, or due to any acts or omission on the part of third parties or for any actions or omissions which are beyond the reasonable control of Makanat. Makanat reserves the right to modify the Prices without the need for any prior notice. The amended Prices will apply with immediate effect",
+      "sectionThree": {
+        "content": "6-3 Refund Policy: In the event the services are not availed at the booking date and time, User may cancel the booking. Upon issuance of a valid cancellation by the Platform, the process of refund of your payment will be initiated in the same manner as the money was received.",
+        "pointFour": "No refunds / cancellation requests shall be entertained in case of payment against Services received.",
+        "pointOne": "in case of failure to utilize previous booking money for any re-booking cases, Makanat will initiate refund within expiry of twenty four (24) hours from the date of cancellation.",
+        "pointThree": "Makanat shall not be responsible for any delays in credit to the Cardholder's credit card account/ accountholder’s bank account due to any reasons not attributable to gross negligence or will fulmisconduct by Makanat.",
+        "pointTwo": "all refunds are processed with fourteen (14) working days from the date immediate refund is initiated at our end. You will be provided with the cancellation number to communicate with the Bank."
+      },
+      "sectionTwo": "6-2 Taxes: All prices displayed on the Platform are not including the applicable taxes. Subject to the Laws of Saudi Arabia all imposed taxes shall be paid by the User in addition to the Prices.",
+      "title": "6. Prices, Payment and Taxes and Refund Policy"
+    },
+    "7IntellectualPropertyRights": {
+      "sectionOne": "7-1 Any proprietary or intellectual property rights whatsoever, including without limitation, patents, copyright and design rights including any invention, design, discovery or improvement, computer program, documentation, confidential information, copyright work or other material which User conceives, discovers or creates during the performance of the Services (the \"Intellectual Property Rights\") shall belong absolutely to Makanat.",
+      "sectionTwo": {
+        "content": "7-2 Unless stated otherwise, all intellectual property, including, but not limited to: copyright and content of symbols, trademarks, trade names and other information provided on the property on or via this Platform (whether text, images and other materials) are owned by Makanat. Makanat allows using material from this site only for personal use, subject to one or more of the following conditions.",
+        "pointOne": "It is prohibited to distribute or sell any part of this Platform for commercial or political purposes. The user shall not modify any part of this Platform.",
+        "pointTwo": "You must seek prior written approval of Makanat for any use of the intellectual property, or the information of this Platform, it is strictly prohibited to misuse any of its contents."
+      },
+      "title": "7-Intellectual Property Rights"
+    },
+    "8PrivacyUseData": {
+      "sectionFour": "8-4 In particular, the User accepts on the following: (a) processing of his sensitive personal data; and b) the worldwide-transfer of the User personal data by Makanat to any third parties where disclosure to such third parties is required in the normal course of business or by applicable law.",
+      "sectionOne": "8-1 While we appreciate your interest in the Platform, we believe that your rights to ensure privacy are important. We will take all reasonable steps to ensure that your data have been properly stored by any regular emerging technologies.",
+      "sectionThree": "8-3 Makanat reserves the right to use or copy all data and information and/or materials submitted or sent from the user through the Platform (hereinafter referred to as the “materials”) Providing Makanat with such information shall be considered as an acceptance by the User that Makanat has the right to use and process such data for the purpose of providing the Services.",
+      "sectionTwo": "8-2 We keep and store personal data as long as it is necessary for the performance of the Services, provided that there is no legal obligation in the Saudi Arabia requires keeping the data for longer period of time.",
+      "title": "8. Privacy and Use of Data"
+    },
+    "9LimitationLiability": {
+      "sectionOne": "9-1 While, Makanat will make reasonable efforts to ensure the accuracy and correctness of information, it does not guarantee, or make any assurances regarding the Platform and/or with respect to the information on it. The user will enter the Platform and use the information voluntarily and take responsibility for any risks that might occur as described in these conditions. User remains solely responsibility for evaluation and interpretation, as well as verification of information prior to use or rely",
+      "sectionTwo": "9-2 You acknowledge and represent that Makanat does not accept liability for any loss or damage of any kind and in any way as a result of or in relation to the login or inability to gain access to this Platform, nor from the use of or reliance on any of the information contained on this Platform, including, but not limited to, viruses that can infect computer equipment, software or data, to the maximum extent of this responsibility being excluded under the law. Also , Makanat does not assume responsibility for damages resulting from the use of electronic means of communication, such as, but not limited to, damages caused by the delay, or the delivery of e-mails, failure, or interception or manipulation of electronic communications by third parties, or computer programs used to send electronic messages and viruses.",
+      "title": "9. Limitation of Liability"
+    },
+    "introduction": {
+      "sectionOneBold": "يرجى قراءة شروط الاستخدام هذه بعناية قبل الوصول إلى منصة مكانات أو استخدامها. إذا كنت لا توافق على شروط الاستخدام هذه، فيجب عليك التوقف عن استخدام المنصة أو الوصول إليها.",
+      "sectionOneNormal": "(You will be referred to herein as “User” or “You” or any other pronoun that refers to the user).",
+      "sectionTwo": "By browsing the Platform or accessing and using our Services, you acknowledge that you have read, understood, and agree to be legally bound by the Terms of Use of these Terms of Use and the Terms of Use of our Privacy Policy.",
+      "title": "مقدمة"
+    }
+  }
+}
