@@ -1,0 +1,52 @@
+.banner-container {
+  background-image: url("../../images/Rectangle.png");
+  background-position: center center;
+  background-size: cover;
+  height: 100vh;
+  .banner-container-content {
+    background: linear-gradient(
+      90deg,
+      #191a23 0%,
+      rgba(25, 26, 35, 0.79) 0.01%,
+      rgba(25, 26, 35, 0.97) 53.69%,
+      rgba(25, 26, 35, 0.74) 99.99%,
+      rgba(25, 26, 35, 0) 100%
+    );
+    height: 100%;
+  }
+  .banner-container-text {
+  }
+}
+////////////////////////// medium screens
+@media only screen and (min-width: 1200px) {
+  .banner-container {
+    .banner-container-text {
+      width: 38%;
+      padding-top: 50px;
+      p {
+        background: linear-gradient(
+          97.12deg,
+          #ff0ba8 -9.05%,
+          #34cefb 44.71%,
+          #f08b41 99.6%
+        );
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+        text-fill-color: transparent;
+        font-size: 1.6rem;
+      }
+      h5{
+        font-size:3rem
+      }
+    }
+  }
+}
+////////////////////////// large screens
+@media only screen and (min-width: 1600px) {
+  .banner-container {
+    .banner-container-text {
+        width: 30%;
+  }
+}
+}

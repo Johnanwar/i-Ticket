@@ -5,7 +5,7 @@ function Home() {
   const dispatch = useDispatch();
 
   return (
-    <div>home ffffffffffffffffff</div>
+    <div />
   );
 }
 

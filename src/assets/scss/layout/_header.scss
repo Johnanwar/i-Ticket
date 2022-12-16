@@ -1,3 +1,67 @@
 // -----------------------------------------------------------------------------
 // This file contains all styles related to the header of the site/application.
 // -----------------------------------------------------------------------------
+header {
+  .middle-side-container {
+    a {
+      font-size: 1rem;
+    }
+  }
+  .last-side-container {
+    img {
+      width: 2rem;
+    }
+
+    a {
+      font-size: 1rem;
+    }
+  }
+}
+@media only screen and (min-width: 1200px) {
+  header {
+    padding: 20px 0;
+    .middle-side-container {
+      a {
+        margin-right: 35px;
+      }
+    }
+
+  }
+}
+@media only screen and (min-width: 1600px) {
+  header {
+    padding: 30px 0;
+    .middle-side-container {
+      a {
+        margin-right: 60px;
+      }
+    }
+  }
+}
+
+///////////////////////////////////// arabic
+
+html[dir="rtl"] {
+  header {
+  }
+  @media only screen and (min-width: 1200px) {
+    header {
+      .middle-side-container {
+        a {
+          margin-left: 35px;
+          margin-right: 0;
+        }
+      }
+    }
+  }
+  @media only screen and (min-width: 1600px) {
+    header {
+      .middle-side-container {
+        a {
+          margin-left: 60px;
+          margin-right: 0;
+        }
+      }
+    }
+  }
+}

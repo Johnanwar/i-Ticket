@@ -14,8 +14,8 @@
   box-shadow: 0px 0px 6px $red-color;
 }
 
-.border-bottom-blue {
-  border-bottom: 1px solid $blue-color;
+.border-bottom-main {
+  border-bottom: 1px solid $main-color;
 }
 
 .hover-background-color {
@@ -60,7 +60,12 @@
 .faded-silver-bg {
   background-color: $faded-silver-color;
 }
-
+.text-grey{
+  color:$gray-color
+}
+.text-grey-light{
+  color:$light-gray-color;
+}
 html[dir="rtl"] {
   .dropdown-menu-right {
     right: auto;

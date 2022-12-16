@@ -4,50 +4,26 @@
 
 body,
 a,
-p,
-span {
-  // font-family: $proxima-nova-regular;
-  font-family: aktiv-grotesk-arabic, sans-serif;
-  font-weight: 400;
-  font-style: normal;
+p {
+ font-family: $poppins-medium;
 }
+span {
+  font-family: $poppins-pegular;
+ }
 
 h1,
 h2,
 h3,
 h4,
 .font-weight-bold {
-  // font-family: $proxima-nova-bold;
-  font-family: aktiv-grotesk-arabic, sans-serif;
-  font-weight: 700;
-  font-style: normal;
+  font-family: $Poppins-Bold;
+
 }
 h5,
 h6,
 .font-weight-medium {
-  // font-family: $proxima-nova-bold;
-  font-family: aktiv-grotesk-arabic, sans-serif;
-  font-weight: 500;
-  font-style: normal;
-}
-
-.font-weight-thin {
-  font-family: aktiv-grotesk-arabic, sans-serif;
-  font-weight: 400;
-  font-style: normal;
+  font-family: $poppins-semiBold;
 }
 
 
-html[dir="rtl"] {
-  body,
-  .font-weight-thin {
-    font-family: aktiv-grotesk-arabic, sans-serif;
-    font-weight: 400;
-    font-style: normal;
-    .font-weight-bold {
-      font-family: aktiv-grotesk-arabic, sans-serif;
-      font-weight: 700;
-      font-style: normal;
-    }
-  }
-}
+

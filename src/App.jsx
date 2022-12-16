@@ -10,6 +10,7 @@ import localStorageProvider from './localStorageProvider';
 import Home from './views/home';
 import About from './views/about';
 import PublicLayout from './layouts/public-latout';
+import HomeLayout from './layouts/home-latout';
 import NsavLayout from './layouts/nav-latout';
 // import ScrollToTop from './routes/scroll-to-top';
 
@@ -21,6 +22,7 @@ function App() {
 
   useEffect(() => {
     localStorageProvider.get('locale').then((lng) => {
+      // const locale = 'en';
       let locale;
       if (!lng) {
         locale = 'en';
@@ -33,8 +35,8 @@ function App() {
       document.querySelector('html').dir = i18n.dir();
       document.querySelector('html').lang = locale;
 
-      // document.querySelector('#bootstrap-ltr').disabled = locale === 'ar';
-      // document.querySelector('#bootstrap-rtl').disabled = locale === 'en';
+      document.querySelector('#bootstrap-ltr').disabled = locale === 'ar';
+      document.querySelector('#bootstrap-rtl').disabled = locale === 'en';
     });
   }, []);
 
@@ -43,7 +45,7 @@ function App() {
       <BrowserRouter>
         {/* <ScrollToTop> */}
         <Routes>
-          <Route element={<PublicLayout />}>
+          <Route element={<HomeLayout />}>
             <Route path="/" element={<Home />} />
           </Route>
           <Route element={<NsavLayout />}>

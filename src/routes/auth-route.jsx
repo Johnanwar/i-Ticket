@@ -1,11 +1,11 @@
 import React from 'react';
 import { Redirect, Route } from 'react-router-dom';
-import Header from '../components/header';
-import Footer from '../components/footer';
+import Header from '../components/layout/header';
+import Footer from '../components/layout/footer';
 
-const AuthRoute = ({
+function AuthRoute({
   component: Component, header, footer, noHeader, roles, ...rest
-}) => {
+}) {
   const authenticated = localStorage.getItem('api_token') == null;
   // const role = localStorage.getItem('role');
 
@@ -46,12 +46,10 @@ const AuthRoute = ({
     );
   } if (noHeader) {
     return (
-      <>
-        <Route
-          {...rest}
-          render={(props) => renderRoute(props)}
-        />
-      </>
+      <Route
+        {...rest}
+        render={(props) => renderRoute(props)}
+      />
     );
   }
   return (
@@ -64,6 +62,6 @@ const AuthRoute = ({
       <Footer />
     </>
   );
-};
+}
 
 export default AuthRoute;

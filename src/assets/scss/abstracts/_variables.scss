@@ -4,19 +4,24 @@
 
 /// Proxima Nova font family
 /// @type List
+$poppins-light: 'Poppins-Light' !default;
+$poppins-pegular: 'Poppins-Regular' !default;
+$poppins-medium: 'Poppins-Medium' !default;
+$poppins-semiBold: 'Poppins-SemiBold' !default;
+$Poppins-Bold: 'Poppins-Bold' !default;
 
 /// Colors
 /// @type Color
 $dark-color: #191919 !default;
 $white-color: #ffffff !default;
-$blue-color: #2a32ff !default;
+$main-color: #563E91 !default;
 $faded-blue-color: #407fff !default;
 $light-blue-color: #f3f9fe !default;
 $baby-blue-color: #F7FAFE !default;
 $silver-color: #f9f9fc !default;
 $dark-gray-color: #73879c !default;
-$gray-color: #b2b2b2 !default;
-$light-gray-color: #e2e2e2 !default;
+$gray-color: #9598AE!default;
+$light-gray-color: #B6B9D5 !default;
 $red-color: #ed4646 !default;
 $dark-silver-color: #5a5a5a !default;
 $orange-color: #fcc392 !default;
